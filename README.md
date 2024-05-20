@@ -5,7 +5,7 @@ Instagram Clone using Vite, React and Firebase.
 2. npm run dev
 
 ##Link:
-https://instagram-react-firebase.netlify.app
+https://suhrobbek-instagram-clone.netlify.app/
 
 SignUp Page:
 
